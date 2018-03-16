@@ -1,0 +1,180 @@
+﻿@model IEnumerable<WebDoAn.Models.DB.CGrammar>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Index1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Index2)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Index3)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Detail1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Detail2)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Detail3)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Usercode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Image)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Votenumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Toppiccode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Levelcode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Minacode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Example1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MeanEx1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Example2)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MeanEx2)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Example3)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MeanEx3)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Attribute1)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Attribute2)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UpDate)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Index1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Index2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Index3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detail1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detail2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detail3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usercode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Image)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Votenumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Toppiccode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Levelcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Minacode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Example1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeanEx1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Example2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeanEx2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Example3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeanEx3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Attribute1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Attribute2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Grammarcode">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Grammarcode">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Grammarcode">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

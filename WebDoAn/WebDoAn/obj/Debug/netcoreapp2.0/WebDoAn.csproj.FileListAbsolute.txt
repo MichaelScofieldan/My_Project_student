@@ -1,0 +1,11 @@
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\bin\Debug\netcoreapp2.0\WebDoAn.deps.json
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\bin\Debug\netcoreapp2.0\WebDoAn.runtimeconfig.json
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\bin\Debug\netcoreapp2.0\WebDoAn.runtimeconfig.dev.json
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\bin\Debug\netcoreapp2.0\WebDoAn.dll
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.csprojResolveAssemblyReference.cache
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.csproj.CoreCompileInputs.cache
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.AssemblyInfoInputs.cache
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.AssemblyInfo.cs
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\bin\Debug\netcoreapp2.0\WebDoAn.pdb
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.dll
+E:\GITHUB\My_Project_student\My_Project_student\WebDoAn\WebDoAn\obj\Debug\netcoreapp2.0\WebDoAn.pdb
