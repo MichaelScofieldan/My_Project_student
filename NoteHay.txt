@@ -1,0 +1,60 @@
+﻿Hay ho
+
+1. Phim tat
+	in Notepad++, I can duplicate the current line with: Ctrl+D
+	in EditPlus: Ctrl+J
+	in NetBeans: Ctrl+Shift+↓/↑
+	in Eclipse, Ctrl+Alt+↓/↑
+	in Vi/Vim, yyp
+
+2. Duplicate Visual studio
+	https://marketplace.visualstudio.com/items?itemName=ctlajoie.DuplicateSelection
+
+3. Phim tat
+	http://visualstudioshortcuts.com/2017/
+
+4. PostMan
+
+5. Fiddler
+
+6. Image
+	https://wall.alphacoders.com/tags.php?tid=1334&page=2
+
+7. Create Logo
+	https://freetuts.net/top-3-website-tao-logo-online-don-gian-859.html
+
+8. Tao report
+	http://code5s.com/windows/visual-c-sharp/huong-dan-su-dung-crystal-report-voi-visual-studio.html
+
+9. Mua ten mien
+	https://www.pavietnam.vn/vn/xem-don-hang-RAG2A9E661.html
+
+10. Asp.net mvc with Vb.net
+	https://www.mikesdotnetting.com/article/236/examining-the-edit-methods-and-edit-view
+
+11. Email theo ten mien
+	http://maildoanhnghiep.net/bang-gia-email?g=Email%20theo%20t%C3%AAn%20mi%E1%BB%81n
+
+12. Create, read, write file .ini
+	http://midnightprogrammer.net/post/readwrite-settings-to-ini-file-using-c
+
+13. componentone for visual studio
+
+14. https://www.devexpress.com/Products/NET/Controls/WinForms/
+
+15. Nhap hang Trung Quoc
+	http://www.nhaphang247.com
+
+16. http://www.saromalang.com/p/adj-n4.html
+
+17. https://tailieutiengnhathay.wordpress.com/2016/02/21/tai-lieu-n4-tat-tan-tat-kanjitinh-tu-dong-tu-lien-quan-den-jplt-4/
+
+18. https://www.000webhost.com
+
+19. SEO
+
+20. https://vi.glosbe.com/
+
+21. Asp.net API
+http://www.tutorialsteacher.com/webapi/create-web-api-project
+	
