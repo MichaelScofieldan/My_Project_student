@@ -50,6 +50,10 @@ namespace WebDoAn
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
+                route.MapRoute(
+                    name : "areas",
+                    template : "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                );
             });
         }
     }
